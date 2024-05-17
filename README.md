@@ -1,0 +1,2 @@
+# DS-Generator-A-Novel-Deep-Learning-Architecture-to-Generate-Data-of-upcoming-Sequence
+This repository contains the implementation of DS-Generator, a novel deep learning architecture designed to generate the next data sequence using its previous sequences. Our method is demonstrated on eight PROMISE repository projects and aims to reduce software testing and development costs by predicting future sequences of bug &amp; software metrics.
